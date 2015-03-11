@@ -1,6 +1,8 @@
 #include <stdio.h>
 
+void hola(){printf("hola funcio!!!!!!\n");}
+
 int main() {
-	printf("hola!!!!\n");
+	hola();
 	return 0;
 }
